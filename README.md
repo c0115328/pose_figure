@@ -1,5 +1,4 @@
 # pose_figure
-Name
 ====
 
 Overview
@@ -24,5 +23,4 @@ Overview
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
-
+[c0115328]https://github.com/c0115328
